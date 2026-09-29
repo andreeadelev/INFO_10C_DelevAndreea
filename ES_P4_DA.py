@@ -1,4 +1,4 @@
-ES_P4_DA
+#ES_P4_DA
 n=int(input("Introduceti numarul de obiecte:"))
 foi=3*n+6
 etichete = 2*n+9
